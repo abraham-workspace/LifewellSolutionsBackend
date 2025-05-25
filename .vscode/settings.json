@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "group": "Server5",
+            "name": "Tango",
+            "database": "Lifewell",
+            "username": "postgres"
+        }
+    ]
+}
